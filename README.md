@@ -7,3 +7,5 @@ pandas
 matplotlib  
 gensim  
 nltk  
+  
+Run in JupyterNotebook
