@@ -7,5 +7,17 @@ pandas
 matplotlib  
 gensim  
 nltk  
-  
-Run in JupyterNotebook
+
+You are also going to need either Jupyter Notebook or VSCode.
+
+
+
+> Make sure there is no file named "performance.txt" in the main directory.
+
+
+
+Open Part1.ipynb Jupyter Notebook (or VSCode) and run all.
+
+Open Part2.ipynb the same way and run all.
+
+Open Part3.ipynb the same way and run all.
